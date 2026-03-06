@@ -1,1 +1,2 @@
-First RAG project with movies dataset
+# First RAG project with movies dataset
+
